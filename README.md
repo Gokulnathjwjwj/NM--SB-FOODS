@@ -1,6 +1,4 @@
-SB FOODS sounds like an exciting project! Developing a food delivery app using the MERN stack (MongoDB, Express.js, React.js, and Node.js) is a great way to leverage powerful technologies for a practical application.
 
-Here's a brief overview and a structure to explain your project:
 
 ---
 
